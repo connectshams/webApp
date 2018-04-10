@@ -50,13 +50,9 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #learn-rails for webApp
-gem 'activerecord-tableless'
-gem 'compass-rails'
-gem 'gibbon'
-gem 'google_drive'
-gem 'high_voltage'
-gem 'simple_form'
-gem 'zurb-foundation'
+
+gem 'figaro'
+
 group :development do
   #gem 'better_errors'
   #gem 'quiet_assets'
