@@ -53,7 +53,7 @@ gem 'jquery-rails'
 
 #learn-rails for webApp
 #gem 'activerecord-tableless'
-#gem 'compass-rails'
+gem 'compass-rails', '~> 3.0.2'
 gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
