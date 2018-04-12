@@ -61,6 +61,7 @@ gem 'simple_form'
 gem 'zurb-foundation'
 gem 'figaro'
 gem 'rails_layout'
+#gem 'activerecord-tableless', "~> 1.0"
 
 group :development do
   #gem 'better_errors'
